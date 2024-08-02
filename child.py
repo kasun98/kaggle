@@ -1,0 +1,3 @@
+#sample
+
+print("child")
